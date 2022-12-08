@@ -1,0 +1,11 @@
+1. node + typescript
+2. linter + formatter
+3. tdd with jest
+4. pre-commit hooker with conventional commits + linter + formatter + jest
+5. setup desenv and prod environment
+6. nodemon?
+7. orm + migrations?
+8. docker
+9. redis
+10. documentation (swagger?)
+11. deployar
