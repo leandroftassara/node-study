@@ -1,11 +1,13 @@
-1. node + typescript
-2. linter + formatter
-3. tdd with jest
-4. pre-commit hooker with conventional commits + linter + formatter + jest
-5. setup desenv and prod environment
-6. nodemon?
-7. orm + migrations?
-8. docker
-9. redis
-10. documentation (swagger?)
-11. deployar
+1. node + typescript (✔)
+2. linter + formatter [used only eslint] (✔)
+3. pre-commit hooker with conventional commits + linter
+4. jest
+5. add jest to pre-commit hook
+6. setup desenv and prod environment
+7. nodemon?
+8. tdd
+9. orm + migrations?
+10. docker
+11. redis
+12. documentation (swagger?)
+13. deployar
